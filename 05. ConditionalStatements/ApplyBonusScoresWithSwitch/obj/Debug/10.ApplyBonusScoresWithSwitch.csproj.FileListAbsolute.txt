@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ApplyBonusScoresWithSwitch\bin\Debug\ApplyBonusScoresWithSwitch.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ApplyBonusScoresWithSwitch\bin\Debug\ApplyBonusScoresWithSwitch.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ApplyBonusScoresWithSwitch\bin\Debug\ApplyBonusScoresWithSwitch.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ApplyBonusScoresWithSwitch\obj\Debug\ApplyBonusScoresWithSwitch.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ApplyBonusScoresWithSwitch\obj\Debug\ApplyBonusScoresWithSwitch.pdb

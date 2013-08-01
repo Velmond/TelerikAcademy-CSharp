@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\bin\Debug\08.EscapeSequences.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\bin\Debug\08.EscapeSequences.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\bin\Debug\08.EscapeSequences.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\obj\Debug\08.EscapeSequences.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\obj\Debug\08.EscapeSequences.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\08.EscapeSequences\obj\Debug\08.EscapeSequences.csprojResolveAssemblyReference.cache

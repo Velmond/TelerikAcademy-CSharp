@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\bin\Debug\09.IsAPointInACircleAndARectangle.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\bin\Debug\09.IsAPointInACircleAndARectangle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\bin\Debug\09.IsAPointInACircleAndARectangle.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\obj\Debug\09.IsAPointInACircleAndARectangle.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\obj\Debug\09.IsAPointInACircleAndARectangle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\09.IsAPointInACircleAndARectangle\obj\Debug\09.IsAPointInACircleAndARectangle.pdb

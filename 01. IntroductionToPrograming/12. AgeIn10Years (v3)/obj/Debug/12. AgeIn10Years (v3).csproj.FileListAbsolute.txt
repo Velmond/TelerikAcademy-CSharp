@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\bin\Debug\_12.AgeIn10Years__v3_.exe.config
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\bin\Debug\_12.AgeIn10Years__v3_.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\bin\Debug\_12.AgeIn10Years__v3_.pdb
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\obj\Debug\_12.AgeIn10Years__v3_.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\obj\Debug\_12.AgeIn10Years__v3_.pdb
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v3)\obj\Debug\12. AgeIn10Years (v3).csprojResolveAssemblyReference.cache

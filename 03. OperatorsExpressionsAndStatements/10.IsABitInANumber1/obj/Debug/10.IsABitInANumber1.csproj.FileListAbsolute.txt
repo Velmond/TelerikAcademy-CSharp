@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\10.IsABitInANumber1\bin\Debug\10.IsABitInANumber1.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\10.IsABitInANumber1\bin\Debug\10.IsABitInANumber1.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\10.IsABitInANumber1\bin\Debug\10.IsABitInANumber1.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\10.IsABitInANumber1\obj\Debug\10.IsABitInANumber1.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\10.IsABitInANumber1\obj\Debug\10.IsABitInANumber1.pdb

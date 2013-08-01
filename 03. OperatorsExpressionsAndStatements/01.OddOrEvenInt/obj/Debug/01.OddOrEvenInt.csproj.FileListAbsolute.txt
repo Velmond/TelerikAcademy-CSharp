@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\bin\Debug\01.OddOrEvenInt.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\01.OddOrEvenInt\obj\Debug\01.OddOrEvenInt.pdb

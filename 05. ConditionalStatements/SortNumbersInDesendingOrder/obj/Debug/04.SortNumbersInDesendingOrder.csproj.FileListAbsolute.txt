@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SortNumbersInDesendingOrder\bin\Debug\SortNumbersInDesendingOrder.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SortNumbersInDesendingOrder\bin\Debug\SortNumbersInDesendingOrder.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SortNumbersInDesendingOrder\bin\Debug\SortNumbersInDesendingOrder.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SortNumbersInDesendingOrder\obj\Debug\SortNumbersInDesendingOrder.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SortNumbersInDesendingOrder\obj\Debug\SortNumbersInDesendingOrder.pdb

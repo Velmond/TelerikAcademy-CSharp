@@ -1,0 +1,9 @@
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\bin\Debug\_12.AgeIn10Years__v4_.exe.config
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\obj\Debug\_12.AgeIn10Years__v4_.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\obj\Debug\_12.AgeIn10Years__v4_.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\bin\Debug\_12.AgeIn10Years__v4_.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\obj\Debug\_12.AgeIn10Years__v4_.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\obj\Debug\_12.AgeIn10Years__v4_.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\bin\Debug\_12.AgeIn10Years__v4_.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\bin\Debug\_12.AgeIn10Years__v4_.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\12. AgeIn10Years (v4)\obj\Debug\12. AgeIn10Years.csprojResolveAssemblyReference.cache

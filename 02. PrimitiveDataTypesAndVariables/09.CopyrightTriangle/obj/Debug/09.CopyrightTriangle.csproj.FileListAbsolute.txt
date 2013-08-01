@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\bin\Debug\09.CopyrightTriangle.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\bin\Debug\09.CopyrightTriangle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\bin\Debug\09.CopyrightTriangle.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\09.CopyrightTriangle\obj\Debug\09.CopyrightTriangle.csprojResolveAssemblyReference.cache

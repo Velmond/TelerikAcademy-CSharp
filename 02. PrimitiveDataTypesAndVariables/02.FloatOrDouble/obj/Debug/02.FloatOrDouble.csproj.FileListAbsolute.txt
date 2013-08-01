@@ -1,0 +1,8 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

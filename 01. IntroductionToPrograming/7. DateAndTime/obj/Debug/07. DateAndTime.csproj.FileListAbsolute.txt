@@ -1,0 +1,8 @@
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\7. DateAndTime\bin\Debug\_7.DateAndTime.exe.config
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\7. DateAndTime\obj\Debug\_7.DateAndTime.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\7. DateAndTime\obj\Debug\_7.DateAndTime.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\7. DateAndTime\bin\Debug\_7.DateAndTime.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\7. DateAndTime\obj\Debug\_7.DateAndTime.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\7. DateAndTime\obj\Debug\_7.DateAndTime.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\7. DateAndTime\bin\Debug\_7.DateAndTime.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkIntroductionToPrograming\7. DateAndTime\bin\Debug\_7.DateAndTime.pdb

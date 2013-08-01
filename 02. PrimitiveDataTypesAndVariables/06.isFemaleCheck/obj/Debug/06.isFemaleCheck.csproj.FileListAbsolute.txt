@@ -1,0 +1,10 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\obj\Debug\06.isFemaleCheck.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\obj\Debug\06.isFemaleCheck.pdb
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.exe.config
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\obj\Debug\06.isFemaleCheck.exe
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\obj\Debug\06.isFemaleCheck.pdb
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.exe
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\06.isFemaleCheck\bin\Debug\06.isFemaleCheck.pdb

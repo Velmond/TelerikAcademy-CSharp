@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\bin\Debug\GCDWithEuclideanAlgorithm.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\bin\Debug\GCDWithEuclideanAlgorithm.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\bin\Debug\GCDWithEuclideanAlgorithm.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\obj\Debug\GCDWithEuclideanAlgorithm.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\obj\Debug\GCDWithEuclideanAlgorithm.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\GCDWithEuclideanAlgorithm\obj\Debug\08.GCDWithEuclideanAlgorithm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\bin\Debug\ExchangeValuesIfFirstIsGreater.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\bin\Debug\ExchangeValuesIfFirstIsGreater.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\bin\Debug\ExchangeValuesIfFirstIsGreater.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\obj\Debug\01.ExchangeValuesIfFirstIsGreater.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\obj\Debug\ExchangeValuesIfFirstIsGreater.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ExchangeValuesIfFirstIsGreater\obj\Debug\ExchangeValuesIfFirstIsGreater.pdb

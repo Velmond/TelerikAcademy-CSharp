@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\03.RectangleArea\obj\Debug\03.RectangleArea.pdb

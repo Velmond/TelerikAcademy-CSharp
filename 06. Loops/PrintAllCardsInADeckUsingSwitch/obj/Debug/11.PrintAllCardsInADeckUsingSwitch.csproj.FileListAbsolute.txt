@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\PrintAllCardsInADeckUsingSwitch\bin\Debug\PrintAllCardsInADeckUsingSwitch.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\PrintAllCardsInADeckUsingSwitch\bin\Debug\PrintAllCardsInADeckUsingSwitch.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\PrintAllCardsInADeckUsingSwitch\bin\Debug\PrintAllCardsInADeckUsingSwitch.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\PrintAllCardsInADeckUsingSwitch\obj\Debug\PrintAllCardsInADeckUsingSwitch.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\PrintAllCardsInADeckUsingSwitch\obj\Debug\PrintAllCardsInADeckUsingSwitch.pdb

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\bin\Debug\HowManyZerosAfterNFact.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\bin\Debug\HowManyZerosAfterNFact.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\bin\Debug\HowManyZerosAfterNFact.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\obj\Debug\HowManyZerosAfterNFact.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\obj\Debug\HowManyZerosAfterNFact.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\HowManyZerosAfterNFact\obj\Debug\13.HowManyZerosAfterNFact.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\bin\Debug\13.Exchange3BitsWithAnother3Bits.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\bin\Debug\13.Exchange3BitsWithAnother3Bits.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\bin\Debug\13.Exchange3BitsWithAnother3Bits.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\obj\Debug\13.Exchange3BitsWithAnother3Bits.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\obj\Debug\13.Exchange3BitsWithAnother3Bits.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\13.Exchange3BitsWithAnother3Bits\obj\Debug\13.Exchange3BitsWithAnother3Bits.pdb

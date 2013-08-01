@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

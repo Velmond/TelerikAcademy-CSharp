@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\bin\Debug\Numbers1ToN.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\bin\Debug\Numbers1ToN.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\bin\Debug\Numbers1ToN.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\obj\Debug\01.Numbers1ToN.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\obj\Debug\Numbers1ToN.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\Numbers1ToN\obj\Debug\Numbers1ToN.pdb

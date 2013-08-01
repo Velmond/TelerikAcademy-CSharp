@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v2)\bin\Debug\_12.AgeIn10Years__v2_.exe.config
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v2)\bin\Debug\_12.AgeIn10Years__v2_.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v2)\bin\Debug\_12.AgeIn10Years__v2_.pdb
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v2)\obj\Debug\_12.AgeIn10Years__v2_.exe
+D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\12. AgeIn10Years (v2)\obj\Debug\_12.AgeIn10Years__v2_.pdb

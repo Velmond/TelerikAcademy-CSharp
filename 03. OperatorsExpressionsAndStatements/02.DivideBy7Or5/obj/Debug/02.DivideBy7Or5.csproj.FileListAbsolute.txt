@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\02.DivideBy7Or5\bin\Debug\02.DivideBy7Or5.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\02.DivideBy7Or5\bin\Debug\02.DivideBy7Or5.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\02.DivideBy7Or5\bin\Debug\02.DivideBy7Or5.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\02.DivideBy7Or5\obj\Debug\02.DivideBy7Or5.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\02.DivideBy7Or5\obj\Debug\02.DivideBy7Or5.pdb

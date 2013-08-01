@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\bin\Debug\GreatestOfFiveNumbers.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\bin\Debug\GreatestOfFiveNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\bin\Debug\GreatestOfFiveNumbers.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\obj\Debug\GreatestOfFiveNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\obj\Debug\GreatestOfFiveNumbers.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\GreatestOfFiveNumbers\obj\Debug\07.GreatestOfFiveNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\bin\Debug\NNumbersArrangedAsASpiral.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\bin\Debug\NNumbersArrangedAsASpiral.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\bin\Debug\NNumbersArrangedAsASpiral.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\obj\Debug\NNumbersArrangedAsASpiral.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\obj\Debug\NNumbersArrangedAsASpiral.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NNumbersArrangedAsASpiral\obj\Debug\14.NNumbersArrangedAsASpiral.csprojResolveAssemblyReference.cache

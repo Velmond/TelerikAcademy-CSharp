@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MinAndMaxOfSequence\bin\Debug\MinAndMaxOfSequence.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MinAndMaxOfSequence\bin\Debug\MinAndMaxOfSequence.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MinAndMaxOfSequence\bin\Debug\MinAndMaxOfSequence.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MinAndMaxOfSequence\obj\Debug\MinAndMaxOfSequence.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MinAndMaxOfSequence\obj\Debug\MinAndMaxOfSequence.pdb

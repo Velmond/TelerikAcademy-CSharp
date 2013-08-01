@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\11.IntValuesExchange\bin\Debug\11.IntValuesExchange.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\11.IntValuesExchange\bin\Debug\11.IntValuesExchange.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\11.IntValuesExchange\bin\Debug\11.IntValuesExchange.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\11.IntValuesExchange\obj\Debug\11.IntValuesExchange.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\11.IntValuesExchange\obj\Debug\11.IntValuesExchange.pdb

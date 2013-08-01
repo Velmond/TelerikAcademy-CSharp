@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\bin\Debug\CheckIfSumOfNumbersIs0.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\bin\Debug\CheckIfSumOfNumbersIs0.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\bin\Debug\CheckIfSumOfNumbersIs0.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\obj\Debug\CheckIfSumOfNumbersIs0.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\obj\Debug\CheckIfSumOfNumbersIs0.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\obj\Debug\09.CheckIfSumOfNumbersIs0.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\bin\Debug\NFactTimesKFaktOverDiffFact.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\bin\Debug\NFactTimesKFaktOverDiffFact.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\bin\Debug\NFactTimesKFaktOverDiffFact.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\obj\Debug\NFactTimesKFaktOverDiffFact.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\obj\Debug\NFactTimesKFaktOverDiffFact.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactTimesKFaktOverDiffFact\obj\Debug\05.NFactTimesKFaktOverDiffFact.csprojResolveAssemblyReference.cache

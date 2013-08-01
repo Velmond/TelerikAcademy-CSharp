@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\bin\Debug\10.MarketingVariableTypesAndNames.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\bin\Debug\10.MarketingVariableTypesAndNames.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\bin\Debug\10.MarketingVariableTypesAndNames.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\obj\Debug\10.MarketingVariableTypesAndNames.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\obj\Debug\10.MarketingVariableTypesAndNames.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\10.MarketingVariableTypesAndNames\obj\Debug\10.MarketingVariableTypesAndNames.csprojResolveAssemblyReference.cache

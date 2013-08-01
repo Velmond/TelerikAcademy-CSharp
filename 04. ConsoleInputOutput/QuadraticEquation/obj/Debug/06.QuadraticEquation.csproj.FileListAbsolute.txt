@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

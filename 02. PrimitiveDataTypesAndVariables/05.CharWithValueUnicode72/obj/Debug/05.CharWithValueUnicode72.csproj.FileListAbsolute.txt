@@ -1,0 +1,8 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\bin\Debug\05.CharWithValueUnicode72.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\bin\Debug\05.CharWithValueUnicode72.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\bin\Debug\05.CharWithValueUnicode72.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\obj\Debug\05.CharWithValueUnicode72.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\obj\Debug\05.CharWithValueUnicode72.pdb
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\bin\Debug\05.CharWithValueUnicode72.exe.config
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\obj\Debug\05.CharWithValueUnicode72.exe
+C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\05.CharWithValueUnicode72\obj\Debug\05.CharWithValueUnicode72.pdb

@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\04.CheckIfThirdDigitIs7\bin\Debug\04.CheckIfThirdDigitIs7.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\04.CheckIfThirdDigitIs7\bin\Debug\04.CheckIfThirdDigitIs7.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\04.CheckIfThirdDigitIs7\bin\Debug\04.CheckIfThirdDigitIs7.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\04.CheckIfThirdDigitIs7\obj\Debug\04.CheckIfThirdDigitIs7.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\04.CheckIfThirdDigitIs7\obj\Debug\04.CheckIfThirdDigitIs7.pdb

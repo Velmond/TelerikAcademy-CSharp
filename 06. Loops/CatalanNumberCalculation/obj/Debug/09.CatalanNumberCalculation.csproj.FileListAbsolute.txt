@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\bin\Debug\CatalanNumberCalculation.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\bin\Debug\CatalanNumberCalculation.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\bin\Debug\CatalanNumberCalculation.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\obj\Debug\CatalanNumberCalculation.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\obj\Debug\CatalanNumberCalculation.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\CatalanNumberCalculation\obj\Debug\09.CatalanNumberCalculation.csprojResolveAssemblyReference.cache

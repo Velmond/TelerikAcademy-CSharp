@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\06.IsAPointInACircle\bin\Debug\06.IsAPointInACircle.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\06.IsAPointInACircle\bin\Debug\06.IsAPointInACircle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\06.IsAPointInACircle\bin\Debug\06.IsAPointInACircle.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\06.IsAPointInACircle\obj\Debug\06.IsAPointInACircle.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\06.IsAPointInACircle\obj\Debug\06.IsAPointInACircle.pdb

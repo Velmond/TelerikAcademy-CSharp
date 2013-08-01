@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.exe.config
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\GreaterOfTwoNumbers\bin\Debug\GreaterOfTwoNumbers.pdb
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.exe
+D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\GreaterOfTwoNumbers\obj\Debug\GreaterOfTwoNumbers.pdb
