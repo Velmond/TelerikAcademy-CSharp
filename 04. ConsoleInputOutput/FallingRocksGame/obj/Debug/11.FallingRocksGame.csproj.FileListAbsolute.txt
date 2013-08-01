@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\bin\Debug\FallingRocksGame.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\bin\Debug\FallingRocksGame.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\bin\Debug\FallingRocksGame.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\obj\Debug\FallingRocksGame.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\obj\Debug\FallingRocksGame.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FallingRocksGame\obj\Debug\11.FallingRocksGame.csprojResolveAssemblyReference.cache
