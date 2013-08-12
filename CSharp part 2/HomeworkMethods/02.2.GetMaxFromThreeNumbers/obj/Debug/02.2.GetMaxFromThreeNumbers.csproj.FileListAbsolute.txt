@@ -1,0 +1,8 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\bin\Debug\02.2.GetMaxFromThreeNumbers.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\obj\Debug\02.2.GetMaxFromThreeNumbers.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\bin\Debug\02.2.GetMaxFromThreeNumbers.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\bin\Debug\02.2.GetMaxFromThreeNumbers.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\bin\Debug\02.GetMaxMethod.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\bin\Debug\02.GetMaxMethod.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\obj\Debug\02.2.GetMaxFromThreeNumbers.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.2.GetMaxFromThreeNumbers\obj\Debug\02.2.GetMaxFromThreeNumbers.pdb

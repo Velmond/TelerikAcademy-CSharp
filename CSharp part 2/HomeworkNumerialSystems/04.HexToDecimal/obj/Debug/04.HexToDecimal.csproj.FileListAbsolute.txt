@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.csprojResolveAssemblyReference.cache

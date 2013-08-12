@@ -1,0 +1,3 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\19.GenerateAndPrintAllThePermutationsOfNNumbers\bin\Debug\19.GenerateAndPrintAllThePermutationsOfNNumbers.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\19.GenerateAndPrintAllThePermutationsOfNNumbers\obj\Debug\19.GenerateAndPrintAllThePermutationsOfNNumbers.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\19.GenerateAndPrintAllThePermutationsOfNNumbers\obj\Debug\19.GenerateAndPrintAllThePermutationsOfNNumbers.pdb

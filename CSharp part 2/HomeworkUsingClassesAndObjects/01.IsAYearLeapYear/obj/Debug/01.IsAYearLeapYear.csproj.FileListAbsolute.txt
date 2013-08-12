@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\bin\Debug\01.IsAYearLeapYear.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\bin\Debug\01.IsAYearLeapYear.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\bin\Debug\01.IsAYearLeapYear.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\obj\Debug\01.IsAYearLeapYear.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\obj\Debug\01.IsAYearLeapYear.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\01.IsAYearLeapYear\obj\Debug\01.IsAYearLeapYear.pdb

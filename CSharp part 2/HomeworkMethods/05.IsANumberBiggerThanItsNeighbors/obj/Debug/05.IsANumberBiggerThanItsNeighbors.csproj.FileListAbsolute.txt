@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\bin\Debug\05.IsANumberBiggerThanItsNeighbors.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\bin\Debug\05.IsANumberBiggerThanItsNeighbors.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\bin\Debug\05.IsANumberBiggerThanItsNeighbors.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\obj\Debug\05.IsANumberBiggerThanItsNeighbors.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\obj\Debug\05.IsANumberBiggerThanItsNeighbors.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\05.IsANumberBiggerThanItsNeighbors\obj\Debug\05.IsANumberBiggerThanItsNeighbors.pdb

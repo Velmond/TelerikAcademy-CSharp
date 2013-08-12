@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\bin\Debug\07x.FindTheLargestAreaOfEqualElements.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\bin\Debug\07x.FindTheLargestAreaOfEqualElements.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\bin\Debug\07x.FindTheLargestAreaOfEqualElements.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\obj\Debug\07x.FindTheLargestAreaOfEqualElements.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\obj\Debug\07x.FindTheLargestAreaOfEqualElements.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\07x.FindTheLargestAreaOfEqualElements\obj\Debug\07x.FindTheLargestAreaOfEqualElements.csprojResolveAssemblyReference.cache

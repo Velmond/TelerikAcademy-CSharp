@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.csprojResolveAssemblyReference.cache

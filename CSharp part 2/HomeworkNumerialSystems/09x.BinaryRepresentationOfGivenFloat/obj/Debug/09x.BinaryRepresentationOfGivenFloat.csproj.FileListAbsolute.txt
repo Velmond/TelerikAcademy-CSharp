@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\bin\Debug\09x.BinaryRepresentationOfGivenFloat.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\bin\Debug\09x.BinaryRepresentationOfGivenFloat.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\bin\Debug\09x.BinaryRepresentationOfGivenFloat.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\obj\Debug\09x.BinaryRepresentationOfGivenFloat.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\obj\Debug\09x.BinaryRepresentationOfGivenFloat.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\09x.BinaryRepresentationOfGivenFloat\obj\Debug\09x.BinaryRepresentationOfGivenFloat.csprojResolveAssemblyReference.cache

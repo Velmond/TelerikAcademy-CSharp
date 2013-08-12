@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\bin\Debug\06.SumOfNumbersInAString.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\bin\Debug\06.SumOfNumbersInAString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\bin\Debug\06.SumOfNumbersInAString.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\obj\Debug\06.SumOfNumbersInAString.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\obj\Debug\06.SumOfNumbersInAString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\06.SumOfNumbersInAString\obj\Debug\06.SumOfNumbersInAString.pdb

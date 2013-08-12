@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\bin\Debug\04.MaximumSequence.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\bin\Debug\04.MaximumSequence.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\bin\Debug\04.MaximumSequence.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\obj\Debug\04.MaximumEqualSequence.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\obj\Debug\04.MaximumSequence.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\04.MaximumSequence\obj\Debug\04.MaximumSequence.pdb

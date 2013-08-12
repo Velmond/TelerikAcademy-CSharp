@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\05.MaximumIncreasingSequence\bin\Debug\05.MaximumIncreasingSequence.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\05.MaximumIncreasingSequence\obj\Debug\05.MaximumIncreasingSequence.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\05.MaximumIncreasingSequence\obj\Debug\05.MaximumIncreasingSequence.pdb

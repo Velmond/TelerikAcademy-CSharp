@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\bin\Debug\07.ReverseTheDigitsOfANumber.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\bin\Debug\07.ReverseTheDigitsOfANumber.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\bin\Debug\07.ReverseTheDigitsOfANumber.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\obj\Debug\07.ReverseTheDigitsOfANumber.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\obj\Debug\07.ReverseTheDigitsOfANumber.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\07.ReverseTheDigitsOfANumber\obj\Debug\07.ReverseTheDigitsOfANumber.pdb

@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\12.IndexOflettersForAGivenWord\bin\Debug\12.IndexOflettersForAGivenWord.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\12.IndexOflettersForAGivenWord\bin\Debug\12.IndexOflettersForAGivenWord.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\12.IndexOflettersForAGivenWord\bin\Debug\12.IndexOflettersForAGivenWord.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\12.IndexOflettersForAGivenWord\obj\Debug\12.IndexOflettersForAGivenWord.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\12.IndexOflettersForAGivenWord\obj\Debug\12.IndexOflettersForAGivenWord.pdb

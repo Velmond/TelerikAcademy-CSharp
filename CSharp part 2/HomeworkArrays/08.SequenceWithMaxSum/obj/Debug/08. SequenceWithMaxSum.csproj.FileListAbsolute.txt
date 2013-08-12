@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\08.SequenceWithMaxSum\bin\Debug\08.SequenceWithMaxSum.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\08.SequenceWithMaxSum\bin\Debug\08.SequenceWithMaxSum.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\08.SequenceWithMaxSum\bin\Debug\08.SequenceWithMaxSum.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\08.SequenceWithMaxSum\obj\Debug\08.SequenceWithMaxSum.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\08.SequenceWithMaxSum\obj\Debug\08.SequenceWithMaxSum.pdb

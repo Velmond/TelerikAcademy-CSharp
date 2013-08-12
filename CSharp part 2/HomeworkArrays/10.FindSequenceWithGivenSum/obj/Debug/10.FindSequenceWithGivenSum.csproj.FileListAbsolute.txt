@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\bin\Debug\10.FindSequenceWithGivenSum.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\bin\Debug\10.FindSequenceWithGivenSum.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\bin\Debug\10.FindSequenceWithGivenSum.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\obj\Debug\10.FindSequenceWithGivenSum.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\obj\Debug\10.FindSequenceWithGivenSum.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\10.FindSequenceWithGivenSum\obj\Debug\10.FindSequenceWithGivenSum.csprojResolveAssemblyReference.cache

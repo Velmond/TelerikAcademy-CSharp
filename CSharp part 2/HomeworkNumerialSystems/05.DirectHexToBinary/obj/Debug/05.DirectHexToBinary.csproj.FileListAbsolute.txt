@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\05.DirectHexToBinary\bin\Debug\05.DirectHexToBinary.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\05.DirectHexToBinary\bin\Debug\05.DirectHexToBinary.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\05.DirectHexToBinary\bin\Debug\05.DirectHexToBinary.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\05.DirectHexToBinary\obj\Debug\05.DirectHexToBinary.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\05.DirectHexToBinary\obj\Debug\05.DirectHexToBinary.pdb
