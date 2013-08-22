@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\bin\Debug\13.FindWordsCountInAFile.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\bin\Debug\13.FindWordsCountInAFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\bin\Debug\13.FindWordsCountInAFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\obj\Debug\13.FindWordsCountInAFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\obj\Debug\13.FindWordsCountInAFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\obj\Debug\13.FindSomeWordsCountInAFile.csprojResolveAssemblyReference.cache

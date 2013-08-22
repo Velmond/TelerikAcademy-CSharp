@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\bin\Debug\02.ReadNumberMethod.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\obj\Debug\02.ReadNumberMethod.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\bin\Debug\02.ReadNumberMethod.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\bin\Debug\02.ReadNumberMethod.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\obj\Debug\02.ReadNumberMethod.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\02.ReadNumberMethod\obj\Debug\02.ReadNumberMethod.pdb

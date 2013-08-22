@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\obj\Debug\04.CompareTwoTextFiles.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\obj\Debug\04.CompareTwoTextFiles.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\04.CompareTwoTextFiles\obj\Debug\04.CompareTwoTextFiles.csprojResolveAssemblyReference.cache

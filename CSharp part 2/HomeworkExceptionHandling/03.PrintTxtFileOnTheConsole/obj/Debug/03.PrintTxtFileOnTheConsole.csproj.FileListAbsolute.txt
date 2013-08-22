@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\bin\Debug\03.PrintTxtFileOnTheConsole.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\bin\Debug\03.PrintTxtFileOnTheConsole.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\bin\Debug\03.PrintTxtFileOnTheConsole.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\obj\Debug\03.PrintTxtFileOnTheConsole.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\obj\Debug\03.PrintTxtFileOnTheConsole.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\03.PrintTxtFileOnTheConsole\obj\Debug\03.PrintTxtFileOnTheConsole.csprojResolveAssemblyReference.cache

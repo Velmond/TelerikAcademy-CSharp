@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\bin\Debug\01.PrintTheOddLines.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\bin\Debug\01.PrintTheOddLines.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\bin\Debug\01.PrintTheOddLines.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\obj\Debug\01.PrintTheOddLines.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\obj\Debug\01.PrintTheOddLines.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\01.PrintTheOddLines\obj\Debug\01.PrintTheOddLines.pdb

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.pdb

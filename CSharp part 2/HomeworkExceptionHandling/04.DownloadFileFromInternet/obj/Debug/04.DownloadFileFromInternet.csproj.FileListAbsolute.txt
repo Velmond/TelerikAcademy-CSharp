@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.pdb

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\bin\Debug\06.SortTextFile.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\bin\Debug\06.SortTextFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\bin\Debug\06.SortTextFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\obj\Debug\06.SortTextFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\obj\Debug\06.SortTextFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\06.SortTextFile\obj\Debug\06.SortTextFile.csprojResolveAssemblyReference.cache

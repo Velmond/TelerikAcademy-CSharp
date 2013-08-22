@@ -1,0 +1,1 @@
+While testing tests for testing minors we have come to the conclusion that the tested tests are not what we wanted and now new tests must be made and tested to be sure they are appropriate for testing minors.

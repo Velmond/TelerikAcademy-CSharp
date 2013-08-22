@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\bin\Debug\11.DeleteWordsWithPrefixTest.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\bin\Debug\11.DeleteWordsWithPrefixTest.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\bin\Debug\11.DeleteWordsWithPrefixTest.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\obj\Debug\11.DeleteWordsWithPrefixTest.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\obj\Debug\11.DeleteWordsWithPrefixTest.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\11.DeleteWordsWithPrefixTest\obj\Debug\11.DeleteWordsWithPrefixTest.csprojResolveAssemblyReference.cache

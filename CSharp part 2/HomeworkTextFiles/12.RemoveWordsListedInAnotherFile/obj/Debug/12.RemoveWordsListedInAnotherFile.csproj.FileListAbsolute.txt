@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\bin\Debug\12.RemoveWordsListedInAnotherFile.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\bin\Debug\12.RemoveWordsListedInAnotherFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\bin\Debug\12.RemoveWordsListedInAnotherFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\obj\Debug\12.RemoveWordsListedInAnotherFile.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\obj\Debug\12.RemoveWordsListedInAnotherFile.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\12.RemoveWordsListedInAnotherFile\obj\Debug\12.RemoveWordsListedInAnotherFile.csprojResolveAssemblyReference.cache

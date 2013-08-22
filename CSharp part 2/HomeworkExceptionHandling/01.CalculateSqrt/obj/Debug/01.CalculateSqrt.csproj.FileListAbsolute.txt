@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\bin\Debug\01.CalculateSqrt.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\obj\Debug\01.CalculateSqrt.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\bin\Debug\01.CalculateSqrt.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\bin\Debug\01.CalculateSqrt.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\obj\Debug\01.CalculateSqrt.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkExceptionHandling\01.CalculateSqrt\obj\Debug\01.CalculateSqrt.pdb
