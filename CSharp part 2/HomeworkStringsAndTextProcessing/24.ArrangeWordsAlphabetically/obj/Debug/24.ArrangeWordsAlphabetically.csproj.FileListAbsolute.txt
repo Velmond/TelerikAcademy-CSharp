@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\bin\Debug\24.ArrangeWordsAlphabetically.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\bin\Debug\24.ArrangeWordsAlphabetically.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\bin\Debug\24.ArrangeWordsAlphabetically.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\obj\Debug\24.ArrangeWordsAlphabetically.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\obj\Debug\24.ArrangeWordsAlphabetically.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\24.ArrangeWordsAlphabetically\obj\Debug\24.ArrangeWordsAlphabetically.csprojResolveAssemblyReference.cache

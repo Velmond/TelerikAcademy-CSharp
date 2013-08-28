@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\bin\Debug\16.FindTimespanInDays.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\bin\Debug\16.FindTimespanInDays.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\bin\Debug\16.FindTimespanInDays.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\obj\Debug\16.FindTimespanInDays.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\obj\Debug\16.FindTimespanInDays.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\16.FindTimespanInDays\obj\Debug\16.FindTimespanInDays.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\bin\Debug\04.TimesASubstringIsContained.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\obj\Debug\04.TimesASubstringIsContained.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\bin\Debug\04.TimesASubstringIsContained.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\bin\Debug\04.TimesASubstringIsContained.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\obj\Debug\04.TimesASubstringIsContained.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\04.TimesASubstringIsContained\obj\Debug\04.TimesASubstringIsContained.pdb

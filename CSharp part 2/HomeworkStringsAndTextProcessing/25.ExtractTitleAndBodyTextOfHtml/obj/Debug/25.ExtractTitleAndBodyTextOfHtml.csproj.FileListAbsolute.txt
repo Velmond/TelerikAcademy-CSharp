@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\25.ExtractTitleAndBodyTextOfHtml\bin\Debug\25.ExtractTitleAndBodyTextOfHtml.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\25.ExtractTitleAndBodyTextOfHtml\bin\Debug\25.ExtractTitleAndBodyTextOfHtml.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\25.ExtractTitleAndBodyTextOfHtml\bin\Debug\25.ExtractTitleAndBodyTextOfHtml.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\25.ExtractTitleAndBodyTextOfHtml\obj\Debug\25.ExtractTitleAndBodyTextOfHtml.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\25.ExtractTitleAndBodyTextOfHtml\obj\Debug\25.ExtractTitleAndBodyTextOfHtml.pdb

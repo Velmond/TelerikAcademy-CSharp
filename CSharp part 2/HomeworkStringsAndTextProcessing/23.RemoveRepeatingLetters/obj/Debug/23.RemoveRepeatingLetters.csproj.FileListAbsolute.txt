@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\23.RemoveRepeatingLetters\bin\Debug\23.RemoveRepeatingLetters.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\23.RemoveRepeatingLetters\bin\Debug\23.RemoveRepeatingLetters.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\23.RemoveRepeatingLetters\bin\Debug\23.RemoveRepeatingLetters.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\23.RemoveRepeatingLetters\obj\Debug\23.RemoveRepeatingLetters.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\23.RemoveRepeatingLetters\obj\Debug\23.RemoveRepeatingLetters.pdb

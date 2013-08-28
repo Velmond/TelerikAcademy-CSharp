@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\bin\Debug\09.CensorCertainWords.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\bin\Debug\09.CensorCertainWords.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\bin\Debug\09.CensorCertainWords.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\obj\Debug\09.CensorCertainWords.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\obj\Debug\09.CensorCertainWords.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\09.CensorCertainWords\obj\Debug\09.CensorCertainWords.csprojResolveAssemblyReference.cache

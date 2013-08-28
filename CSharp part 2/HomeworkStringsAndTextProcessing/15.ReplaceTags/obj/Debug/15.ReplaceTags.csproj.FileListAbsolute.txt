@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

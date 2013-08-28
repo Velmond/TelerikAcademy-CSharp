@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\bin\Debug\05.SwitchCasesAccordingToTags.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\bin\Debug\05.SwitchCasesAccordingToTags.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\bin\Debug\05.SwitchCasesAccordingToTags.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\obj\Debug\05.SwitchCasesAccordingToTags.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\obj\Debug\05.SwitchCasesAccordingToTags.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\05.SwitchCasesAccordingToTags\obj\Debug\05.SwitchCasesAccordingToTags.csprojResolveAssemblyReference.cache

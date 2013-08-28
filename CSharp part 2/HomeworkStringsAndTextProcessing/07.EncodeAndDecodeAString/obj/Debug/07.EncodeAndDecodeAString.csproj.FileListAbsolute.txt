@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\bin\Debug\07.EncodeAndDecodeAString.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\bin\Debug\07.EncodeAndDecodeAString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\bin\Debug\07.EncodeAndDecodeAString.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\obj\Debug\07.EncodeAndDecodeAString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\obj\Debug\07.EncodeAndDecodeAString.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\07.EncodeAndDecodeAString\obj\Debug\07.EncodeAndDecodeAString.csprojResolveAssemblyReference.cache

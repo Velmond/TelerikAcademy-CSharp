@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\bin\Debug\17.PrintDateAndTimeIn6hours30mins.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\bin\Debug\17.PrintDateAndTimeIn6hours30mins.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\bin\Debug\17.PrintDateAndTimeIn6hours30mins.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\obj\Debug\17.PrintDateAndTimeIn6hours30mins.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\obj\Debug\17.PrintDateAndTimeIn6hours30mins.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\17.PrintDateAndTimeIn6hours30mins\obj\Debug\17.PrintDateAndTimeIn6hours30mins.pdb

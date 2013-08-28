@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\21.RepetitionsOfLettersInString\bin\Debug\21.RepetitionsOfLettersInString.exe.config
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\21.RepetitionsOfLettersInString\bin\Debug\21.RepetitionsOfLettersInString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\21.RepetitionsOfLettersInString\bin\Debug\21.RepetitionsOfLettersInString.pdb
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\21.RepetitionsOfLettersInString\obj\Debug\21.RepetitionsOfLettersInString.exe
+D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\21.RepetitionsOfLettersInString\obj\Debug\21.RepetitionsOfLettersInString.pdb
