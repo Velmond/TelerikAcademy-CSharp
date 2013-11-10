@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\bin\Debug\06.01.DivisibleBy7And3Lambda.exe.config
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\obj\Debug\06.01.DivisibleBy7And3Lambda.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\bin\Debug\06.01.DivisibleBy7And3Lambda.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\bin\Debug\06.01.DivisibleBy7And3Lambda.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\obj\Debug\06.01.DivisibleBy7And3Lambda.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\06.01.DivisibleBy7And3Lambda\obj\Debug\06.01.DivisibleBy7And3Lambda.pdb

@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\bin\Debug\GenericList.exe.config
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\obj\Debug\GenericList.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\obj\Debug\GenericList.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\bin\Debug\GenericList.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\bin\Debug\GenericList.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericList\obj\Debug\02.GenericList.csprojResolveAssemblyReference.cache

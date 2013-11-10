@@ -1,0 +1,6 @@
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\bin\Debug\04.Person.exe.config
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\bin\Debug\04.Person.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\bin\Debug\04.Person.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\obj\Debug\04.Person.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\obj\Debug\04.Person.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkCommonTypeSystem\04.Person\obj\Debug\04.Person.pdb

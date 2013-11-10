@@ -1,0 +1,8 @@
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\bin\Debug\05.01.OrderStudentsByNameLINQ.exe.config
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\bin\Debug\05.01.OrderStudentsByNameLINQ.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\bin\Debug\05.01.OrderStudentsByNameLINQ.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\bin\Debug\03.01.StudentsNamesLINQ.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\bin\Debug\03.01.StudentsNamesLINQ.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\obj\Debug\05.02.OrderStudentsByNameLINQ.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\obj\Debug\05.01.OrderStudentsByNameLINQ.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\05.01.OrderStudentsByNameLINQ\obj\Debug\05.01.OrderStudentsByNameLINQ.pdb

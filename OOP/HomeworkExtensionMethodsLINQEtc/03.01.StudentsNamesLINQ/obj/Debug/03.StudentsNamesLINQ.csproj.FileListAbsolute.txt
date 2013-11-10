@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\03.01.StudentsNamesLINQ\bin\Debug\03.01.StudentsNamesLINQ.exe.config
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\03.01.StudentsNamesLINQ\obj\Debug\03.01.StudentsNamesLINQ.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\03.01.StudentsNamesLINQ\obj\Debug\03.01.StudentsNamesLINQ.pdb
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\03.01.StudentsNamesLINQ\bin\Debug\03.01.StudentsNamesLINQ.exe
+D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\03.01.StudentsNamesLINQ\bin\Debug\03.01.StudentsNamesLINQ.pdb
