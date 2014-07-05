@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Delete me!!!\HQC-VariablesDataExpressionsConstants\SizesProjections\bin\Debug\SizesProjections.exe.config
+C:\Users\student\Desktop\Delete me!!!\HQC-VariablesDataExpressionsConstants\SizesProjections\obj\Debug\SizesProjections.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Delete me!!!\HQC-VariablesDataExpressionsConstants\SizesProjections\bin\Debug\Quadrangle.exe.config
+C:\Users\student\Desktop\Delete me!!!\HQC-VariablesDataExpressionsConstants\SizesProjections\bin\Debug\ProjectedQuadrangle.exe.config
+C:\Users\student\Desktop\Delete me!!!\HQC-VariablesDataExpressionsConstants\SizesProjections\bin\Debug\ProjectedRectangle.exe.config

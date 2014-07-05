@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-UnitTesting\SchoolSystem\bin\Debug\SchoolSystem.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-UnitTesting\SchoolSystem\bin\Debug\SchoolSystem.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-UnitTesting\SchoolSystem\obj\Debug\SchoolSystem.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-UnitTesting\SchoolSystem\obj\Debug\SchoolSystem.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-UnitTesting\SchoolSystem\obj\Debug\SchoolSystem.csprojResolveAssemblyReference.cache

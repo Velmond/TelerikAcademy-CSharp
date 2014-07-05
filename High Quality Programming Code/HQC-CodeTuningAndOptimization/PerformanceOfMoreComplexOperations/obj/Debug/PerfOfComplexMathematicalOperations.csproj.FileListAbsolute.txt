@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeTuningAndOptimization\PerformanceOfMoreComplexOperations\bin\Debug\PerfOfComplexMathematicalOperations.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeTuningAndOptimization\PerformanceOfMoreComplexOperations\bin\Debug\PerfOfComplexMathematicalOperations.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeTuningAndOptimization\PerformanceOfMoreComplexOperations\obj\Debug\PerfOfComplexMathematicalOperations.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeTuningAndOptimization\PerformanceOfMoreComplexOperations\obj\Debug\PerfOfComplexMathematicalOperations.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeTuningAndOptimization\PerformanceOfMoreComplexOperations\obj\Debug\PerfOfComplexMathematicalOperations.pdb

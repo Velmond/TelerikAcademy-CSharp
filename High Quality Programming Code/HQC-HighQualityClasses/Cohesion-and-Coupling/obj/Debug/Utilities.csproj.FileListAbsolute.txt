@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Utilities.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Cohesion-and-Coupling\bin\Debug\Utilities.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Utilities.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Cohesion-and-Coupling\obj\Debug\Utilities.pdb

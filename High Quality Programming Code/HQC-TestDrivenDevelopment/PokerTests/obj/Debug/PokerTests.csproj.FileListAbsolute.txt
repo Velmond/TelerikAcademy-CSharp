@@ -1,0 +1,7 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\bin\Debug\PokerTests.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\bin\Debug\PokerTests.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\bin\Debug\Poker.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\bin\Debug\Poker.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\obj\Debug\PokerTests.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\obj\Debug\PokerTests.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-TestDrivenDevelopment\PokerTests\obj\Debug\PokerTests.pdb

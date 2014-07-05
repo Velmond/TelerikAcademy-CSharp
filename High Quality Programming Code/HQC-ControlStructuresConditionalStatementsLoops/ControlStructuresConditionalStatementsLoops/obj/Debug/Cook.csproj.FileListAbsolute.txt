@@ -1,0 +1,4 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\ControlStructuresConditionalStatementsLoops\bin\Debug\Cook.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\ControlStructuresConditionalStatementsLoops\bin\Debug\Cook.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\ControlStructuresConditionalStatementsLoops\obj\Debug\Cook.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\ControlStructuresConditionalStatementsLoops\obj\Debug\Cook.pdb

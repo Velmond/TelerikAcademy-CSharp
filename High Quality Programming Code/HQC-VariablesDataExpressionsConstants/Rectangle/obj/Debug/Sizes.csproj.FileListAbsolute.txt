@@ -1,0 +1,5 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-VariablesDataExpressionsConstants\Rectangle\bin\Debug\Sizes.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-VariablesDataExpressionsConstants\Rectangle\bin\Debug\Sizes.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-VariablesDataExpressionsConstants\Rectangle\obj\Debug\Sizes.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-VariablesDataExpressionsConstants\Rectangle\obj\Debug\Sizes.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-VariablesDataExpressionsConstants\Rectangle\obj\Debug\Sizes.pdb

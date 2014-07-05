@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="2d26316a-805b-4277-9ec4-c52873fd3839">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/Utils.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Cohesion-and-Coupling.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>1676904752879906624</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/Parallelepiped.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Cohesion-and-Coupling.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11362212582610240730</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/CalcUtils.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Cohesion-and-Coupling.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>1676904752879906624</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/Figure3D.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Cohesion-and-Coupling.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11362212582610240730</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Cohesion-and-Coupling/Parallelepiped.cs</FileRelativePath>
+        <ProjectRelativePath>Cohesion-and-Coupling/Utilities.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11362212582610240730</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

@@ -1,0 +1,7 @@
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.Tests.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.exe
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\bin\Debug\RotatingWalkInMatrix.pdb
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.dll
+D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix.Tests\obj\Debug\RotatingWalkInMatrix.Tests.pdb

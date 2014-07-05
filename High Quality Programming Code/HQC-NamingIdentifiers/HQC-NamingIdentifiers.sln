@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanWriter", "BooleanWriter\BooleanWriter.csproj", "{1C032031-000C-4292-B888-DA50A27372B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInitializer", "PersonInitializer\PersonInitializer.csproj", "{5CBA877D-C5BD-46F1-BDF8-19835D5C9B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsBrowserMozilla", "IsBrowserMozilla\IsBrowserMozilla.csproj", "{A62C6018-128E-4777-B6FF-76335F83AC97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper", "MineSweeper\MineSweeper.csproj", "{3E5EF96E-3E5B-4C39-9BFC-C000EA2FA7BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C032031-000C-4292-B888-DA50A27372B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C032031-000C-4292-B888-DA50A27372B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C032031-000C-4292-B888-DA50A27372B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C032031-000C-4292-B888-DA50A27372B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBA877D-C5BD-46F1-BDF8-19835D5C9B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBA877D-C5BD-46F1-BDF8-19835D5C9B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBA877D-C5BD-46F1-BDF8-19835D5C9B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBA877D-C5BD-46F1-BDF8-19835D5C9B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62C6018-128E-4777-B6FF-76335F83AC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62C6018-128E-4777-B6FF-76335F83AC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62C6018-128E-4777-B6FF-76335F83AC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62C6018-128E-4777-B6FF-76335F83AC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5EF96E-3E5B-4C39-9BFC-C000EA2FA7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5EF96E-3E5B-4C39-9BFC-C000EA2FA7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5EF96E-3E5B-4C39-9BFC-C000EA2FA7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5EF96E-3E5B-4C39-9BFC-C000EA2FA7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

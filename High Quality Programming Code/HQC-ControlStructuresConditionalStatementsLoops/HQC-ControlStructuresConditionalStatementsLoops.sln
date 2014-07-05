@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cook(Task1)", "ControlStructuresConditionalStatementsLoops\Cook(Task1).csproj", "{DC340AC8-5941-4D9B-9D35-58C6E0C555CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatementRefactoring(Task2)", "IfStatement(Task2)\IfStatementRefactoring(Task2).csproj", "{D91DD0B3-332B-4AD1-AC53-506D6EF551AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopRefactoring(Task3)", "LoopRefactoring\LoopRefactoring(Task3).csproj", "{75737E8A-AF51-46A7-970E-09FA5A5051C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC340AC8-5941-4D9B-9D35-58C6E0C555CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC340AC8-5941-4D9B-9D35-58C6E0C555CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC340AC8-5941-4D9B-9D35-58C6E0C555CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC340AC8-5941-4D9B-9D35-58C6E0C555CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91DD0B3-332B-4AD1-AC53-506D6EF551AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91DD0B3-332B-4AD1-AC53-506D6EF551AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91DD0B3-332B-4AD1-AC53-506D6EF551AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91DD0B3-332B-4AD1-AC53-506D6EF551AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75737E8A-AF51-46A7-970E-09FA5A5051C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75737E8A-AF51-46A7-970E-09FA5A5051C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75737E8A-AF51-46A7-970E-09FA5A5051C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75737E8A-AF51-46A7-970E-09FA5A5051C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

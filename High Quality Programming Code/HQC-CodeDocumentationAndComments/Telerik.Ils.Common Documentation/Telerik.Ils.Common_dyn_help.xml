@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="Telerik.Ils.Common" Title="Telerik.Ils.Common Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.CapitalizeFirstLetter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000008.html" LinkGroup="Telerik.Ils.Common">CapitalizeFirstLetter Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ConvertCyrillicToLatinLetters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000A.html" LinkGroup="Telerik.Ils.Common">ConvertCyrillicToLatinLetters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ConvertLatinToCyrillicKeyboard" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000B.html" LinkGroup="Telerik.Ils.Common">ConvertLatinToCyrillicKeyboard Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.GetFileExtension" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000F.html" LinkGroup="Telerik.Ils.Common">GetFileExtension Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.GetFirstCharacters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000E.html" LinkGroup="Telerik.Ils.Common">GetFirstCharacters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.GetStringBetween" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000009.html" LinkGroup="Telerik.Ils.Common">GetStringBetween Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000001.html" LinkGroup="Telerik.Ils.Common">StringExtensions Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000000.html" LinkGroup="Telerik.Ils.Common">Telerik.Ils.Common Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000012.html" LinkGroup="Telerik.Ils.Common">Telerik.Ils.Common Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToBoolean" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000003.html" LinkGroup="Telerik.Ils.Common">ToBoolean Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToByteArray" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000011.html" LinkGroup="Telerik.Ils.Common">ToByteArray Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToContentType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000010.html" LinkGroup="Telerik.Ils.Common">ToContentType Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToDateTime" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000007.html" LinkGroup="Telerik.Ils.Common">ToDateTime Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToInteger" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000005.html" LinkGroup="Telerik.Ils.Common">ToInteger Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToLong" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000006.html" LinkGroup="Telerik.Ils.Common">ToLong Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToMd5Hash" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000002.html" LinkGroup="Telerik.Ils.Common">ToMd5Hash Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToShort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_0000000000000004.html" LinkGroup="Telerik.Ils.Common">ToShort Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToValidLatinFileName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000D.html" LinkGroup="Telerik.Ils.Common">ToValidLatinFileName Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="Telerik.Ils.Common.StringExtensions.ToValidUsername" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:Telerik.Ils.Common.chm::/topic_000000000000000C.html" LinkGroup="Telerik.Ils.Common">ToValidUsername Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
