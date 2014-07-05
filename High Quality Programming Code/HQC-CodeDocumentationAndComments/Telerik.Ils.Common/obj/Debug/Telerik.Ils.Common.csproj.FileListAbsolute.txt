@@ -1,3 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeDocumentationAndComments\Telerik.Ils.Common\bin\Debug\Telerik.Ils.Common.exe.config
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeDocumentationAndComments\Telerik.Ils.Common\bin\Debug\Telerik.Ils.Common.XML
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeDocumentationAndComments\Telerik.Ils.Common\obj\Debug\Telerik.Ils.Common.csprojResolveAssemblyReference.cache

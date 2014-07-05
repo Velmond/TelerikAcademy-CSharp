@@ -1,4 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-AssertionsAndExceptions\Assertions-Homework\bin\Debug\AssertionsHomework.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-AssertionsAndExceptions\Assertions-Homework\bin\Debug\AssertionsHomework.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-AssertionsAndExceptions\Assertions-Homework\obj\Debug\AssertionsHomework.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-AssertionsAndExceptions\Assertions-Homework\obj\Debug\AssertionsHomework.pdb

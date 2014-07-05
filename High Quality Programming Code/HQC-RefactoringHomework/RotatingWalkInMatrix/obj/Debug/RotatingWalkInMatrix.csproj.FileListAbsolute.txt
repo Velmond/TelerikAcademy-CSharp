@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix\bin\Debug\RotatingWalkInMatrix.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-RefactoringHomework\RotatingWalkInMatrix\obj\Debug\RotatingWalkInMatrix.pdb

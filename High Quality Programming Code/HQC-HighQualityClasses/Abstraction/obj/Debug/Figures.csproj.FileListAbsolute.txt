@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Abstraction\bin\Debug\Figures.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Abstraction\bin\Debug\Figures.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Abstraction\obj\Debug\Figures.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Abstraction\obj\Debug\Figures.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-HighQualityClasses\Abstraction\obj\Debug\Figures.pdb

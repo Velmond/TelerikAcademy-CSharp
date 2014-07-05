@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\bin\Debug\LoopRefactoring.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\bin\Debug\LoopRefactoring.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\obj\Debug\LoopRefactoring(Task3).csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\obj\Debug\LoopRefactoring.exe
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\obj\Debug\LoopRefactoring.pdb

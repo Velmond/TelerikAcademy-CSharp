@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\ControlStructuresConditionalStatementsLoops\obj\Debug\ControlStructuresConditionalStatementsLoops.csprojResolveAssemblyReference.cache

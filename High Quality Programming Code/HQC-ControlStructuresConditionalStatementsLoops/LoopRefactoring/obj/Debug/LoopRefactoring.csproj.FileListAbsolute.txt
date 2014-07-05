@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-ControlStructuresConditionalStatementsLoops\LoopRefactoring\bin\Debug\LoopRefactoring.exe.config

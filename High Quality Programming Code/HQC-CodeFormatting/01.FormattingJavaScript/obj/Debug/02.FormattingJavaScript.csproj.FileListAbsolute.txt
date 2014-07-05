@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeFormatting\01.FormattingJavaScript\bin\01.FormattingJavaScript.dll
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeFormatting\01.FormattingJavaScript\bin\01.FormattingJavaScript.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeFormatting\01.FormattingJavaScript\obj\Debug\01.FormattingJavaScript.dll
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeFormatting\01.FormattingJavaScript\obj\Debug\01.FormattingJavaScript.pdb
-D:\Velmond\School\Telerik\06. High-Quality Programming Code\Homework\HQC-CodeFormatting\01.FormattingJavaScript\obj\Debug\02.FormattingJavaScript.csprojResolveAssemblyReference.cache
