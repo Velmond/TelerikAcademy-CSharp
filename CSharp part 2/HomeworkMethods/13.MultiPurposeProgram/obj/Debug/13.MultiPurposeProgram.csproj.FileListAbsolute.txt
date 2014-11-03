@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\13.MultiPurposeProgram\bin\Debug\13.MultiPurposeProgram.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\13.MultiPurposeProgram\bin\Debug\13.MultiPurposeProgram.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\13.MultiPurposeProgram\bin\Debug\13.MultiPurposeProgram.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\13.MultiPurposeProgram\obj\Debug\13.MultiPurposeProgram.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\13.MultiPurposeProgram\obj\Debug\13.MultiPurposeProgram.pdb

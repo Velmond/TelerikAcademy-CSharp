@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.csprojResolveAssemblyReference.cache

@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\06.20CharactersString\bin\Debug\06.20CharactersString.exe.config

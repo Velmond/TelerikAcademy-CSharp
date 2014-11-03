@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\10.ReplaceCharsWithUnicodeCode\bin\Debug\10.ReplaceCharsWithUnicodeCode.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\10.ReplaceCharsWithUnicodeCode\bin\Debug\10.ReplaceCharsWithUnicodeCode.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\10.ReplaceCharsWithUnicodeCode\bin\Debug\10.ReplaceCharsWithUnicodeCode.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\10.ReplaceCharsWithUnicodeCode\obj\Debug\10.ReplaceCharsWithUnicodeCode.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\10.ReplaceCharsWithUnicodeCode\obj\Debug\10.ReplaceCharsWithUnicodeCode.pdb

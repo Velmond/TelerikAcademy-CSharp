@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\bin\Debug\07.StringsToObjectToString.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\bin\Debug\07.StringsToObjectToString.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\bin\Debug\07.StringsToObjectToString.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\obj\Debug\07.StringsToObjectToString.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\obj\Debug\07.StringsToObjectToString.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\07.StringsToObjectToString\obj\Debug\07.StringsToObjectToString.csprojResolveAssemblyReference.cache

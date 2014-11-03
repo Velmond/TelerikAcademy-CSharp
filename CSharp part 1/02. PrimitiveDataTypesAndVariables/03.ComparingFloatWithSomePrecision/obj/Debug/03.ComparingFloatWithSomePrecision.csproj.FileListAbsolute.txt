@@ -1,9 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\bin\Debug\03.ComparingFloatWithSomePrecision.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\bin\Debug\03.ComparingFloatWithSomePrecision.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\bin\Debug\03.ComparingFloatWithSomePrecision.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\obj\Debug\03.ComparingFloatWithSomePrecision.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\obj\Debug\03.ComparingFloatWithSomePrecision.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\obj\Debug\03.ComparingFloatWithSomePrecision.csprojResolveAssemblyReference.cache
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\bin\Debug\03.ComparingFloatWithSomePrecision.exe.config
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\obj\Debug\03.ComparingFloatWithSomePrecision.exe
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\03.ComparingFloatWithSomePrecision\obj\Debug\03.ComparingFloatWithSomePrecision.pdb

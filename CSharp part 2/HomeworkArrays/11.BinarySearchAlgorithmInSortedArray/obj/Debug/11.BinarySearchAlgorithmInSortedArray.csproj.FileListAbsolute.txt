@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\bin\Debug\11.BinarySearchAlgorithmInSortedArray.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\bin\Debug\11.BinarySearchAlgorithmInSortedArray.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\bin\Debug\11.BinarySearchAlgorithmInSortedArray.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\obj\Debug\11.BinarySearchAlgorithmInSortedArray.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\obj\Debug\11.BinarySearchAlgorithmInSortedArray.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\11.BinarySearchAlgorithmInSortedArray\obj\Debug\11.BinarySearchAlgorithmInSortedArray.csprojResolveAssemblyReference.cache

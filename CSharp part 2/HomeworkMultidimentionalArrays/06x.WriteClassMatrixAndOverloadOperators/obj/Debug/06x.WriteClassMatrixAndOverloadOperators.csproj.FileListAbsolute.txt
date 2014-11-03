@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\bin\Debug\06x.WriteClassMatrixAndOverloadOperators.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\bin\Debug\06x.WriteClassMatrixAndOverloadOperators.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\bin\Debug\06x.WriteClassMatrixAndOverloadOperators.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\obj\Debug\06x.WriteClassMatrixAndOverloadOperators.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\obj\Debug\06x.WriteClassMatrixAndOverloadOperators.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\06x.WriteClassMatrixAndOverloadOperators\obj\Debug\06x.WriteClassMatrixAndOverloadOperators.csprojResolveAssemblyReference.cache

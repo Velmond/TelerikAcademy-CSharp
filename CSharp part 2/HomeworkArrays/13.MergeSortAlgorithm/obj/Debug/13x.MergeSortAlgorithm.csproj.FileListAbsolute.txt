@@ -1,3 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\13.MergeSortAlgorithm\obj\Debug\13.MergeSortAlgorithm.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\13.MergeSortAlgorithm\obj\Debug\13.MergeSortAlgorithm.pdb

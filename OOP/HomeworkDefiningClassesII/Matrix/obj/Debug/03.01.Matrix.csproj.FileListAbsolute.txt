@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\bin\Debug\Matrix.exe.config
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\obj\Debug\Matrix.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\obj\Debug\Matrix.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\obj\Debug\03.01.Matrix.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\bin\Debug\Matrix.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\Matrix\bin\Debug\Matrix.pdb

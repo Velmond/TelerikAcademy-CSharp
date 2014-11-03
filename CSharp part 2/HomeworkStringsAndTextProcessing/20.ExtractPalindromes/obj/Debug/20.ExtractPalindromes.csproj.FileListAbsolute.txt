@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\bin\Debug\20.ExtractPalindromes.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\20.ExtractPalindromes\obj\Debug\20.ExtractPalindromes.csprojResolveAssemblyReference.cache

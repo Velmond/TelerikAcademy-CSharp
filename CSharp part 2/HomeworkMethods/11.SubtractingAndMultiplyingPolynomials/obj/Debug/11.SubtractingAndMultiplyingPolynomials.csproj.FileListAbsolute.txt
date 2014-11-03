@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\bin\Debug\11.SubtractingAndMultiplyingPolynomials.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\bin\Debug\11.SubtractingAndMultiplyingPolynomials.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\bin\Debug\11.SubtractingAndMultiplyingPolynomials.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\obj\Debug\11.SubtractingAndMultiplyingPolynomials.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\obj\Debug\11.SubtractingAndMultiplyingPolynomials.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\11.SubtractingAndMultiplyingPolynomials\obj\Debug\11.SubtractingAndMultiplyingPolynomials.pdb

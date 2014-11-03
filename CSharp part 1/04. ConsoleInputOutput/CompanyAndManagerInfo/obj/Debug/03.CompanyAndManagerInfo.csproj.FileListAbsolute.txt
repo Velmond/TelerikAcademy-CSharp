@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\bin\Debug\CompanyAndManagerInfo.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\bin\Debug\CompanyAndManagerInfo.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\bin\Debug\CompanyAndManagerInfo.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\obj\Debug\CompanyAndManagerInfo.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\CompanyAndManagerInfo\obj\Debug\CompanyAndManagerInfo.pdb

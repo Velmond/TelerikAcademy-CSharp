@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\bin\Debug\SignOfProductWithoutMultiplying.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\bin\Debug\SignOfProductWithoutMultiplying.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\bin\Debug\SignOfProductWithoutMultiplying.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\obj\Debug\SignOfProductWithoutMultiplying.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\obj\Debug\SignOfProductWithoutMultiplying.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\SignOfProductWithoutMultiplying\obj\Debug\02.SignOfProductWithoutMultiplying.csprojResolveAssemblyReference.cache

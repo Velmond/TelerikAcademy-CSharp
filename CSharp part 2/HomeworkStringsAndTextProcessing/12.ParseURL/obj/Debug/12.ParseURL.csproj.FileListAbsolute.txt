@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

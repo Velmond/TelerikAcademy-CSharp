@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\bin\Debug\03.CheckThemBrackets.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\bin\Debug\03.CheckThemBrackets.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\bin\Debug\03.CheckThemBrackets.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\obj\Debug\03.CheckThemBrackets.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\obj\Debug\03.CheckThemBrackets.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\03.CheckThemBrackets\obj\Debug\03.CheckThemBrackets.csprojResolveAssemblyReference.cache

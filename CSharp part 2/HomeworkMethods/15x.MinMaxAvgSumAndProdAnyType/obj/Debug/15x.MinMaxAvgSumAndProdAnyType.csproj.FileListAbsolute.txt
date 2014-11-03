@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\15x.MinMaxAvgSumAndProdAnyType\bin\Debug\15x.MinMaxAvgSumAndProdAnyType.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\15x.MinMaxAvgSumAndProdAnyType\bin\Debug\15x.MinMaxAvgSumAndProdAnyType.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\15x.MinMaxAvgSumAndProdAnyType\bin\Debug\15x.MinMaxAvgSumAndProdAnyType.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\15x.MinMaxAvgSumAndProdAnyType\obj\Debug\15x.MinMaxAvgSumAndProdAnyType.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\15x.MinMaxAvgSumAndProdAnyType\obj\Debug\15x.MinMaxAvgSumAndProdAnyType.pdb

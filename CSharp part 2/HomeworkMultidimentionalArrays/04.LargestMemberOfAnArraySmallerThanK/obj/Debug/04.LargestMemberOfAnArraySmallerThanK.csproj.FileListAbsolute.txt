@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\bin\Debug\04.LargestMemberOfAnArraySmallerThanK.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\bin\Debug\04.LargestMemberOfAnArraySmallerThanK.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\bin\Debug\04.LargestMemberOfAnArraySmallerThanK.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\obj\Debug\04.LargestMemberOfAnArraySmallerThanK.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\obj\Debug\04.LargestMemberOfAnArraySmallerThanK.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\04.LargestMemberOfAnArraySmallerThanK\obj\Debug\04.LargestMemberOfAnArraySmallerThanK.csprojResolveAssemblyReference.cache

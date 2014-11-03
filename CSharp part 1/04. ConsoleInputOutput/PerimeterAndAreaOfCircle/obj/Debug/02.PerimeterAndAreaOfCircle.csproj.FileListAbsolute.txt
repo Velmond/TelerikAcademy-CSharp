@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\bin\Debug\PerimeterAndAreaOfCircle.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\PerimeterAndAreaOfCircle.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PerimeterAndAreaOfCircle\obj\Debug\02.PerimeterAndAreaOfCircle.csprojResolveAssemblyReference.cache

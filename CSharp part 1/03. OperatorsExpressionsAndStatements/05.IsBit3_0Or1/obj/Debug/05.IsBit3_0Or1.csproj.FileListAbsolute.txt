@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\bin\Debug\05.IsBit3_0Or1.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\bin\Debug\05.IsBit3_0Or1.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\bin\Debug\05.IsBit3_0Or1.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\obj\Debug\05.IsBit3_0Or1.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\obj\Debug\05.IsBit3_0Or1.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\05.IsBit3_0Or1\obj\Debug\05.IsBit3_0Or1.csprojResolveAssemblyReference.cache

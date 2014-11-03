@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\02.GetMaxMethod\obj\Debug\02.1.GetMaxMethod.csprojResolveAssemblyReference.cache

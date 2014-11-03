@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\bin\Debug\InputIntDoubleOrStringWithSwitch.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\bin\Debug\InputIntDoubleOrStringWithSwitch.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\bin\Debug\InputIntDoubleOrStringWithSwitch.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\obj\Debug\InputIntDoubleOrStringWithSwitch.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\obj\Debug\InputIntDoubleOrStringWithSwitch.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\InputIntDoubleOrStringWithSwitch\obj\Debug\08.InputIntDoubleOrStringWithSwitch.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\bin\Debug\ConvertNumberToItsName.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\bin\Debug\ConvertNumberToItsName.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\bin\Debug\ConvertNumberToItsName.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\obj\Debug\ConvertNumberToItsName.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\obj\Debug\ConvertNumberToItsName.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\ConvertNumberToItsName\obj\Debug\11.ConvertNumberToItsName.csprojResolveAssemblyReference.cache

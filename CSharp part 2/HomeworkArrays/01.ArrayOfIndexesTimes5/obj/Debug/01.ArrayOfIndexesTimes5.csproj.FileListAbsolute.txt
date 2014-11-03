@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\bin\Debug\01.ArrayOfIndexesTimes5.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\bin\Debug\01.ArrayOfIndexesTimes5.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\bin\Debug\01.ArrayOfIndexesTimes5.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\obj\Debug\01.ArrayOfIndexesTimes5.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\obj\Debug\01.ArrayOfIndexesTimes5.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\01.ArrayOfIndexesTimes5\obj\Debug\01.ArrayOfIndexesTimes5.csprojResolveAssemblyReference.cache

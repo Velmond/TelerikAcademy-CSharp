@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\bin\Debug\01.PrintAnArrayACertainWay.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\bin\Debug\01.PrintAnArrayACertainWay.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\bin\Debug\01.PrintAnArrayACertainWay.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\obj\Debug\01.PrintAnArrayACertainWay.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\obj\Debug\01.PrintAnArrayACertainWay.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\01.PrintAnArrayACertainWay\obj\Debug\01.PrintAnArrayACertainWay.pdb

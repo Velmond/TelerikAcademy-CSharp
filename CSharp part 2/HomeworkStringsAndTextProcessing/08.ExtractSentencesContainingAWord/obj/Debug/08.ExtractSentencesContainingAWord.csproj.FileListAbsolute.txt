@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\bin\Debug\08.ExtractSentencesContainingAWord.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\bin\Debug\08.ExtractSentencesContainingAWord.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\bin\Debug\08.ExtractSentencesContainingAWord.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\obj\Debug\08.ExtractSentencesContainingAWord.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\obj\Debug\08.ExtractSentencesContainingAWord.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\08.ExtractSentencesContainingAWord\obj\Debug\08.ExtractSentencesContainingAWord.csprojResolveAssemblyReference.cache

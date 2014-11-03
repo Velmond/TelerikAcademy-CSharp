@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\bin\Debug\07x.ArithmeticalExpression.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\bin\Debug\07x.ArithmeticalExpression.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\bin\Debug\07x.ArithmeticalExpression.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\obj\Debug\07x.ArithmeticalExpression.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\obj\Debug\07x.ArithmeticalExpression.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\07x.ArithmeticalExpression\obj\Debug\07x.ArithmeticalExpression.csprojResolveAssemblyReference.cache

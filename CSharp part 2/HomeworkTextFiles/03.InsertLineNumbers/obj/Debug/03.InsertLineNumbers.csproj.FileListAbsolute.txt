@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache

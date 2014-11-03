@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\bin\Debug\05.SortAStringArrayByLengthOfElements.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\bin\Debug\05.SortAStringArrayByLengthOfElements.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\bin\Debug\05.SortAStringArrayByLengthOfElements.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\obj\Debug\05.SortAStringArrayByLengthOfElements.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\obj\Debug\05.SortAStringArrayByLengthOfElements.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\05.SortAStringArrayByLengthOfElements\obj\Debug\05.SortAStringArrayByLengthOfElements.csprojResolveAssemblyReference.cache

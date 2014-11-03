@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\bin\Debug\SumOfManyNumbers.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\bin\Debug\SumOfManyNumbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\bin\Debug\SumOfManyNumbers.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\obj\Debug\SumOfManyNumbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\obj\Debug\SumOfManyNumbers.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOfManyNumbers\obj\Debug\07.SumOfManyNumbers.csprojResolveAssemblyReference.cache

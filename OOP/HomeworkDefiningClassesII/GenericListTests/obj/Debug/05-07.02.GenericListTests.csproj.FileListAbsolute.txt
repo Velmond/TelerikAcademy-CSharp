@@ -1,7 +1,0 @@
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\bin\Debug\GenericListTests.dll
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\bin\Debug\GenericListTests.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\bin\Debug\GenericList.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\bin\Debug\GenericList.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\obj\Debug\05-07.02.GenericListTests.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\obj\Debug\GenericListTests.dll
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkDefiningClassesII\GenericListTests\obj\Debug\GenericListTests.pdb

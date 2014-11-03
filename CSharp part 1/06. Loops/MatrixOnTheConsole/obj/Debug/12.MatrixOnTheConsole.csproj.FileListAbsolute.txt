@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\bin\Debug\MatrixOnTheConsole.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\bin\Debug\MatrixOnTheConsole.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\bin\Debug\MatrixOnTheConsole.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\obj\Debug\MatrixOnTheConsole.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\obj\Debug\MatrixOnTheConsole.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\MatrixOnTheConsole\obj\Debug\12.MatrixOnTheConsole.csprojResolveAssemblyReference.cache

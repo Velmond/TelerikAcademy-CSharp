@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\11.NumberAsDecimalHexPercentAndSci\bin\Debug\11.NumberAsDecimalHexPercentAndSci.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\11.NumberAsDecimalHexPercentAndSci\bin\Debug\11.NumberAsDecimalHexPercentAndSci.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\11.NumberAsDecimalHexPercentAndSci\bin\Debug\11.NumberAsDecimalHexPercentAndSci.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\11.NumberAsDecimalHexPercentAndSci\obj\Debug\11.NumberAsDecimalHexPercentAndSci.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\11.NumberAsDecimalHexPercentAndSci\obj\Debug\11.NumberAsDecimalHexPercentAndSci.pdb

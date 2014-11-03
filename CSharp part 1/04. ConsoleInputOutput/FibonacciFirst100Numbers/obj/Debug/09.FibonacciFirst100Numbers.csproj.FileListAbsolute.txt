@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\bin\Debug\FibonacciFirst100Numbers.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\bin\Debug\FibonacciFirst100Numbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\bin\Debug\FibonacciFirst100Numbers.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\obj\Debug\09.FibonacciFirst100Numbers.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\obj\Debug\FibonacciFirst100Numbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\FibonacciFirst100Numbers\obj\Debug\FibonacciFirst100Numbers.pdb

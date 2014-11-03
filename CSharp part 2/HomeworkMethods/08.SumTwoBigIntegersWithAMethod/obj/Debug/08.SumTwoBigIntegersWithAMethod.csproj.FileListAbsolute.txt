@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\bin\Debug\08.SumTwoBigIntegersWithAMethod.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\bin\Debug\08.SumTwoBigIntegersWithAMethod.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\bin\Debug\08.SumTwoBigIntegersWithAMethod.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\obj\Debug\08.SumTwoBigIntegersWithAMethod.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\obj\Debug\08.SumTwoBigIntegersWithAMethod.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\08.SumTwoBigIntegersWithAMethod\obj\Debug\08.SumTwoBigIntegersWithAMethod.pdb

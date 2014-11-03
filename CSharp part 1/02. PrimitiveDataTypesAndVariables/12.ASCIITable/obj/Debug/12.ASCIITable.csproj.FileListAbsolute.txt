@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.csprojResolveAssemblyReference.cache

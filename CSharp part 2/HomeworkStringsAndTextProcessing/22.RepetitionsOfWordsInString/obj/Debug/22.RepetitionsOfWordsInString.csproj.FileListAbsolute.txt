@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\22.RepetitionsOfWordsInString\bin\Debug\22.RepetitionsOfWordsInString.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\22.RepetitionsOfWordsInString\bin\Debug\22.RepetitionsOfWordsInString.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\22.RepetitionsOfWordsInString\bin\Debug\22.RepetitionsOfWordsInString.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\22.RepetitionsOfWordsInString\obj\Debug\22.RepetitionsOfWordsInString.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\22.RepetitionsOfWordsInString\obj\Debug\22.RepetitionsOfWordsInString.pdb

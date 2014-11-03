@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\bin\Debug\10.ExtractTextFromXMLCode.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\bin\Debug\10.ExtractTextFromXMLCode.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\bin\Debug\10.ExtractTextFromXMLCode.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\obj\Debug\10.ExtractTextFromXMLCode.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\obj\Debug\10.ExtractTextFromXMLCode.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\10.ExtractTextFromXMLCode\obj\Debug\10.ExtractTextFromXMLCode.csprojResolveAssemblyReference.cache

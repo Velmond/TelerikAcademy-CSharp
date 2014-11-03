@@ -1,7 +1,0 @@
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\bin\Debug\02.02.IEnumerableTExtensionsTests.dll
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\bin\Debug\02.02.IEnumerableTExtensionsTests.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\bin\Debug\02.01.IEnumerableTExtensions.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\bin\Debug\02.01.IEnumerableTExtensions.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\obj\Debug\02.02.IEnumerableTExtensionsTests.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\obj\Debug\02.02.IEnumerableTExtensionsTests.dll
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\02.02.IEnumerableTExtensionsTests\obj\Debug\02.02.IEnumerableTExtensionsTests.pdb

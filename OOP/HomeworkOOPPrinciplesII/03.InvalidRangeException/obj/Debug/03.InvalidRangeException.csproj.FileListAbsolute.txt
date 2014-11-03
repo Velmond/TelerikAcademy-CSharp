@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.exe.config
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkOOPPrinciplesII\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.csprojResolveAssemblyReference.cache

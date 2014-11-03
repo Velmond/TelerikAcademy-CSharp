@@ -1,3 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\17.IsThereASubsetOfKElementsWithAGivenSum\bin\Debug\17.IsThereASubsetOfKElementsWithAGivenSum.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\17.IsThereASubsetOfKElementsWithAGivenSum\obj\Debug\17.IsThereASubsetOfKElementsWithAGivenSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\17.IsThereASubsetOfKElementsWithAGivenSum\obj\Debug\17.IsThereASubsetOfKElementsWithAGivenSum.pdb

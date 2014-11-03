@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\bin\Debug\02.ReverseAString.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\bin\Debug\02.ReverseAString.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\bin\Debug\02.ReverseAString.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.csprojResolveAssemblyReference.cache

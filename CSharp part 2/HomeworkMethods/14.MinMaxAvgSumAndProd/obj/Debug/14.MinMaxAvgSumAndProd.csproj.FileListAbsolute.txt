@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\14.MinMaxAvgSumAndProd\bin\Debug\14.MinMaxAvgSumAndProd.exe.config

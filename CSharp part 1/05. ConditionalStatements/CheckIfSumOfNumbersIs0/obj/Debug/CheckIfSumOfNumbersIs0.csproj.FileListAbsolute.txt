@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\CheckIfSumOfNumbersIs0\bin\Debug\CheckIfSumOfNumbersIs0.exe.config

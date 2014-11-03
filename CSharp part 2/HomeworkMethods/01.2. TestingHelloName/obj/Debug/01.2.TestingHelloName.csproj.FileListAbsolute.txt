@@ -1,7 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\obj\Debug\01.2.TestingHelloName.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\bin\Debug\_01._2.TestingHelloName.dll
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\bin\Debug\_01._2.TestingHelloName.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\bin\Debug\01.HelloName.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\bin\Debug\01.HelloName.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\obj\Debug\_01._2.TestingHelloName.dll
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\01.2. TestingHelloName\obj\Debug\_01._2.TestingHelloName.pdb

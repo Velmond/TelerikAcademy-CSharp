@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\bin\Debug\05.FindMaximalSum.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\bin\Debug\05.FindMaximalSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\bin\Debug\05.FindMaximalSum.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\obj\Debug\05.FindMaximalSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\obj\Debug\05.FindMaximalSum.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\05.FindMaximalSum\obj\Debug\05.FindMaximalSum.csprojResolveAssemblyReference.cache

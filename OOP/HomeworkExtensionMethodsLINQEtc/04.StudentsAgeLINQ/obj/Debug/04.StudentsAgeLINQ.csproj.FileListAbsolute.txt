@@ -1,8 +1,0 @@
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\bin\Debug\04.StudentsAgeLINQ.exe.config
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\bin\Debug\04.StudentsAgeLINQ.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\bin\Debug\04.StudentsAgeLINQ.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\obj\Debug\04.StudentsAgeLINQ.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\obj\Debug\04.StudentsAgeLINQ.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\bin\Debug\03.01.StudentsNamesLINQ.exe
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\bin\Debug\03.01.StudentsNamesLINQ.pdb
-D:\Velmond\School\Telerik\1.3. OOP\Homework\HomeworkExtensionMethodsLINQEtc\04.StudentsAgeLINQ\obj\Debug\04.StudentsAgeLINQ.csprojResolveAssemblyReference.cache

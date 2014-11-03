@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\bin\Debug\04.CountRepetitionsOfANumber.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\bin\Debug\04.CountRepetitionsOfANumber.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\bin\Debug\04.CountRepetitionsOfANumber.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\obj\Debug\04.CountRepetitionsOfANumber.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\obj\Debug\04.CountRepetitionsOfANumber.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.CountRepetitionsOfANumber\obj\Debug\04.CountRepetitionsOfANumber.pdb

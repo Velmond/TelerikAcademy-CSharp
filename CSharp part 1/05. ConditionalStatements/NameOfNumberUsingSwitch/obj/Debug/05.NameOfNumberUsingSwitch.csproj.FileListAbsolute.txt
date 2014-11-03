@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\bin\Debug\NameOfNumberUsingSwitch.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\bin\Debug\NameOfNumberUsingSwitch.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\bin\Debug\NameOfNumberUsingSwitch.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\obj\Debug\NameOfNumberUsingSwitch.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\obj\Debug\NameOfNumberUsingSwitch.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\NameOfNumberUsingSwitch\obj\Debug\05.NameOfNumberUsingSwitch.csprojResolveAssemblyReference.cache

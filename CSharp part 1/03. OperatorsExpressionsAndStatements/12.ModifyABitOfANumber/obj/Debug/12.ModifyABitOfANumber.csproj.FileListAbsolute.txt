@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\bin\Debug\12.ModifyABitOfANumber.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\bin\Debug\12.ModifyABitOfANumber.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\bin\Debug\12.ModifyABitOfANumber.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\obj\Debug\12.ModifyABitOfANumber.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\obj\Debug\12.ModifyABitOfANumber.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\12.ModifyABitOfANumber\obj\Debug\12.ModifyABitOfANumber.pdb

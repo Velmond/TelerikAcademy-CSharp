@@ -1,8 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\bin\Debug\06.IndexOfFirstElementLargerThanNeighbors.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\bin\Debug\06.IndexOfFirstElementLargerThanNeighbors.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\bin\Debug\06.IndexOfFirstElementLargerThanNeighbors.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\bin\Debug\05.IsANumberBiggerThanItsNeighbors.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\bin\Debug\05.IsANumberBiggerThanItsNeighbors.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\obj\Debug\06.IndexOfFirstElementLargerThanNeighbors.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\obj\Debug\06.IndexOfFirstElementLargerThanNeighbors.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\06.IndexOfFirstElementLargerThanNeighbors\obj\Debug\06.IndexOfFirstElementLargerThanNeighbors.pdb

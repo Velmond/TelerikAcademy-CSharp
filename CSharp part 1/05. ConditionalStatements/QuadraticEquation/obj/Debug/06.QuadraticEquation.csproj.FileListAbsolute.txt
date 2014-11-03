@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConditionalStatements\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

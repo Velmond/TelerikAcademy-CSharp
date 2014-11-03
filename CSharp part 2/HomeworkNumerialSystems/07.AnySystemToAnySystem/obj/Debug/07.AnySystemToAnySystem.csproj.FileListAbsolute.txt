@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\bin\Debug\07.AnySystemToAnySystem.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\bin\Debug\07.AnySystemToAnySystem.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\bin\Debug\07.AnySystemToAnySystem.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\obj\Debug\07.AnySystemToAnySystem.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\obj\Debug\07.AnySystemToAnySystem.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\07.AnySystemToAnySystem\obj\Debug\07.AnySystemToAnySystem.csprojResolveAssemblyReference.cache

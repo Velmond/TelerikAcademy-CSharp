@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache

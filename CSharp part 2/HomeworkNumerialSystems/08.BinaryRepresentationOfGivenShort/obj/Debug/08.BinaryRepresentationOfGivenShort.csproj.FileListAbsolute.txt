@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\bin\Debug\08.BinaryRepresentationOfGivenShort.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\bin\Debug\08.BinaryRepresentationOfGivenShort.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\bin\Debug\08.BinaryRepresentationOfGivenShort.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\obj\Debug\08.BinaryRepresentationOfGivenShort.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\obj\Debug\08.BinaryRepresentationOfGivenShort.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkNumerialSystems\08.BinaryRepresentationOfGivenShort\obj\Debug\08.BinaryRepresentationOfGivenShort.csprojResolveAssemblyReference.cache

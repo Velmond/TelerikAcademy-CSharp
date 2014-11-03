@@ -1,7 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\bin\Debug\04.02.TestingMaxCouter.dll
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\bin\Debug\04.02.TestingMaxCouter.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\bin\Debug\04.CountRepetitionsOfANumber.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\bin\Debug\04.CountRepetitionsOfANumber.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\obj\Debug\04.2.TestingMaxCouter.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\obj\Debug\04.02.TestingMaxCouter.dll
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\04.02.TestingMaxCouter\obj\Debug\04.02.TestingMaxCouter.pdb

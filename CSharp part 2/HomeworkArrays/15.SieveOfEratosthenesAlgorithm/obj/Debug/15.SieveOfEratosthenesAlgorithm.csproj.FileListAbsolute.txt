@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.csprojResolveAssemblyReference.cache

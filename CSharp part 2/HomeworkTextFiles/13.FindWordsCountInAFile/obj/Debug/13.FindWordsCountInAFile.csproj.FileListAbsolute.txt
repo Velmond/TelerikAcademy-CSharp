@@ -1,1 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\13.FindWordsCountInAFile\bin\Debug\13.FindWordsCountInAFile.exe.config

@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\bin\Debug\NumbersDivisibleBy3And7.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\bin\Debug\NumbersDivisibleBy3And7.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\bin\Debug\NumbersDivisibleBy3And7.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\obj\Debug\NumbersDivisibleBy3And7.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NumbersDivisibleBy3And7\obj\Debug\NumbersDivisibleBy3And7.pdb

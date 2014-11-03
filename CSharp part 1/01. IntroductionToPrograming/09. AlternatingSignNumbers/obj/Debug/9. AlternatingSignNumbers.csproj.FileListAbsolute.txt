@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\9. AlternatingSignNumbers\bin\Debug\_9.AlternatingSignNumbers.exe.config
-D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\9. AlternatingSignNumbers\bin\Debug\_9.AlternatingSignNumbers.exe
-D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\9. AlternatingSignNumbers\bin\Debug\_9.AlternatingSignNumbers.pdb
-D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\9. AlternatingSignNumbers\obj\Debug\_9.AlternatingSignNumbers.exe
-D:\Velmond\School\Telerik\Projects\HomeworkIntroductionToPrograming\9. AlternatingSignNumbers\obj\Debug\_9.AlternatingSignNumbers.pdb

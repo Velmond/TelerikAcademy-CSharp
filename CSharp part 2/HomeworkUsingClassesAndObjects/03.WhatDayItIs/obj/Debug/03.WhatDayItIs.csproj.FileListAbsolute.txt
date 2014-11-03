@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\bin\Debug\03.WhatDayItIs.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\bin\Debug\03.WhatDayItIs.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\bin\Debug\03.WhatDayItIs.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\obj\Debug\03.WhatDayItIs.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\obj\Debug\03.WhatDayItIs.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\03.WhatDayItIs\obj\Debug\03.WhatDayItIs.csprojResolveAssemblyReference.cache

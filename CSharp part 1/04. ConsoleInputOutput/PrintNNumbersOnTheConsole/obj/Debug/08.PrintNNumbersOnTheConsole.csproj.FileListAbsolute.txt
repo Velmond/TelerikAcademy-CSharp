@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PrintNNumbersOnTheConsole\bin\Debug\PrintNNumbersOnTheConsole.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PrintNNumbersOnTheConsole\bin\Debug\PrintNNumbersOnTheConsole.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PrintNNumbersOnTheConsole\bin\Debug\PrintNNumbersOnTheConsole.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PrintNNumbersOnTheConsole\obj\Debug\PrintNNumbersOnTheConsole.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\PrintNNumbersOnTheConsole\obj\Debug\PrintNNumbersOnTheConsole.pdb

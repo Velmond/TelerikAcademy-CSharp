@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkTextFiles\09.DeleteOddLines\obj\Debug\09.DeleteOddLines.pdb

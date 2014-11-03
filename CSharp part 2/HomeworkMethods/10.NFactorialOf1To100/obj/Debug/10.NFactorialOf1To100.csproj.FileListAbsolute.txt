@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\bin\Debug\10.NFactorialOf1To100.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\bin\Debug\10.NFactorialOf1To100.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\bin\Debug\10.NFactorialOf1To100.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\obj\Debug\10.NFactorialOf1To100.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\obj\Debug\10.NFactorialOf1To100.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\10.NFactorialOf1To100\obj\Debug\10.NFactorialOf1To100.csprojResolveAssemblyReference.cache

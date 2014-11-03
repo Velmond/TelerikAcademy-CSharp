@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactOverKFact\bin\Debug\NFactOverKFact.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactOverKFact\bin\Debug\NFactOverKFact.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactOverKFact\bin\Debug\NFactOverKFact.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactOverKFact\obj\Debug\NFactOverKFact.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\NFactOverKFact\obj\Debug\NFactOverKFact.pdb

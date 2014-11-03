@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\bin\Debug\07.IsANumberPrime.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\bin\Debug\07.IsANumberPrime.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\bin\Debug\07.IsANumberPrime.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\obj\Debug\07.IsANumberPrime.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\obj\Debug\07.IsANumberPrime.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\07.IsANumberPrime\obj\Debug\07.IsANumberPrime.csprojResolveAssemblyReference.cache

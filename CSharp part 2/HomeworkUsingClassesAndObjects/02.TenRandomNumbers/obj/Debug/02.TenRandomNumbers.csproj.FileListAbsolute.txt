@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\bin\Debug\02.TenRandomNumbers.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\bin\Debug\02.TenRandomNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\bin\Debug\02.TenRandomNumbers.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\obj\Debug\02.TenRandomNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\obj\Debug\02.TenRandomNumbers.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\02.TenRandomNumbers\obj\Debug\02.TenRandomNumbers.csprojResolveAssemblyReference.cache

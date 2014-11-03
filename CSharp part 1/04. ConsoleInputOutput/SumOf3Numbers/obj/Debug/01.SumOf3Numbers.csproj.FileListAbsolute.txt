@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\01.SumOf3Numbers.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

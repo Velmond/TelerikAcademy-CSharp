@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\bin\Debug\14.TranslateWithDictionary.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\bin\Debug\14.TranslateWithDictionary.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\bin\Debug\14.TranslateWithDictionary.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\obj\Debug\14.TranslateWithDictionary.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\obj\Debug\14.TranslateWithDictionary.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkStringsAndTextProcessing\14.TranslateWithDictionary\obj\Debug\14.TranslateWithDictionary.pdb

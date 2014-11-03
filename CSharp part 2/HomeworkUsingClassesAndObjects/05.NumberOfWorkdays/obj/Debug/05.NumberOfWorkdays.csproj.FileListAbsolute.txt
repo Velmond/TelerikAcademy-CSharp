@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkUsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.csprojResolveAssemblyReference.cache

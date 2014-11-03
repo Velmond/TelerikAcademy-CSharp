@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\bin\Debug\07.SortingInIncreasingOrder.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\bin\Debug\07.SortingInIncreasingOrder.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\bin\Debug\07.SortingInIncreasingOrder.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\obj\Debug\07.SortingInIncreasingOrder.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\obj\Debug\07.SortingInIncreasingOrder.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\07.SortingInIncreasingOrder\obj\Debug\07.SortingInIncreasingOrder.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\bin\Debug\13.NullIntAndDouble.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\bin\Debug\13.NullIntAndDouble.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\bin\Debug\13.NullIntAndDouble.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\obj\Debug\13.NullIntAndDouble.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\obj\Debug\13.NullIntAndDouble.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\13.NullIntAndDouble\obj\Debug\13.NullIntAndDouble.csprojResolveAssemblyReference.cache

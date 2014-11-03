@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\bin\Debug\02.MaxSumOf3By3SquareInAMatrix.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\bin\Debug\02.MaxSumOf3By3SquareInAMatrix.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\bin\Debug\02.MaxSumOf3By3SquareInAMatrix.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\obj\Debug\02.MaxSumOf3By3SquareInAMatrix.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\obj\Debug\02.MaxSumOf3By3SquareInAMatrix.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\02.MaxSumOf3By3SquareInAMatrix\obj\Debug\02.MaxSumOf3By3SquareInAMatrix.pdb

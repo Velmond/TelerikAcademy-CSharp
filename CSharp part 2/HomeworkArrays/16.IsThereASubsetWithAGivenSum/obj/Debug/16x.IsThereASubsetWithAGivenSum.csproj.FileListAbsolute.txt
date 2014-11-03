@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\16.IsThereASubsetWithAGivenSum\bin\Debug\16.IsThereASubsetWithAGivenSum.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\16.IsThereASubsetWithAGivenSum\obj\Debug\16.IsThereASubsetWithAGivenSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\16.IsThereASubsetWithAGivenSum\obj\Debug\16.IsThereASubsetWithAGivenSum.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\16.IsThereASubsetWithAGivenSum\bin\Debug\16.IsThereASubsetWithAGivenSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\16.IsThereASubsetWithAGivenSum\bin\Debug\16.IsThereASubsetWithAGivenSum.pdb

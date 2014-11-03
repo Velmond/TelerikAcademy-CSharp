@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\bin\Debug\06.KElementsWithMaxSum.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\bin\Debug\06.KElementsWithMaxSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\bin\Debug\06.KElementsWithMaxSum.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\obj\Debug\06.KElementsWithMaxSum.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\obj\Debug\06.KElementsWithMaxSum.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\06.KElementsWithMaxSum\obj\Debug\06.KElementsWithMaxSum.pdb

@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\11.ExtractTheValueOfABit\bin\Debug\11.ExtractTheValueOfABit.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\11.ExtractTheValueOfABit\bin\Debug\11.ExtractTheValueOfABit.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\11.ExtractTheValueOfABit\bin\Debug\11.ExtractTheValueOfABit.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\11.ExtractTheValueOfABit\obj\Debug\11.ExtractTheValueOfABit.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkOperatorsExpressionsAndStatements\11.ExtractTheValueOfABit\obj\Debug\11.ExtractTheValueOfABit.pdb

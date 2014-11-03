@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\bin\Debug\SumOfARow.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\bin\Debug\SumOfARow.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\bin\Debug\SumOfARow.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\obj\Debug\06.SumOfARow.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\obj\Debug\SumOfARow.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkLoops\SumOfARow\obj\Debug\SumOfARow.pdb

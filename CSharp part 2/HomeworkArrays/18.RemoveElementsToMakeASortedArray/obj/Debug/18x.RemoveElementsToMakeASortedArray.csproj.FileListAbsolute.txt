@@ -1,3 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\18.RemoveElementsToMakeASortedArray\bin\Debug\18.RemoveElementsToMakeASortedArray.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\18.RemoveElementsToMakeASortedArray\obj\Debug\18.RemoveElementsToMakeASortedArray.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\18.RemoveElementsToMakeASortedArray\obj\Debug\18.RemoveElementsToMakeASortedArray.pdb

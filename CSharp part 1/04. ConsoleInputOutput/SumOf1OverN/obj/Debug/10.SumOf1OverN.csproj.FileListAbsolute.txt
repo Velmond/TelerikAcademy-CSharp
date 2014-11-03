@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\bin\Debug\SumOf1OverN.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\bin\Debug\SumOf1OverN.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\bin\Debug\SumOf1OverN.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\obj\Debug\SumOf1OverN.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\obj\Debug\SumOf1OverN.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkConsoleInputOutput\SumOf1OverN\obj\Debug\10.SumOf1OverN.csprojResolveAssemblyReference.cache

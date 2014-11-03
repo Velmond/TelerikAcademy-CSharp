@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\obj\Debug\03.LongestSequenceOfEqualElements.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\obj\Debug\03.LongestSequenceOfEqualElements.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMultidimentionalArrays\03.LongestSequenceOfEqualElements\obj\Debug\03.LongestSequenceOfEqualElements.csprojResolveAssemblyReference.cache

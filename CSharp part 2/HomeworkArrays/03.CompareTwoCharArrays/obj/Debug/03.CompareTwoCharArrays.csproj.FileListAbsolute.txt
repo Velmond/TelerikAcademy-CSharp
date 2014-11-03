@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.csprojResolveAssemblyReference.cache

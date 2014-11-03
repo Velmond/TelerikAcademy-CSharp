@@ -1,6 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\bin\Debug\09.FindMaxElementOfArrayAndSortIt.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\bin\Debug\09.FindMaxElementOfArrayAndSortIt.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\bin\Debug\09.FindMaxElementOfArrayAndSortIt.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\obj\Debug\09.FindMaxElementOfArrayAndSortIt.csprojResolveAssemblyReference.cache
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\obj\Debug\09.FindMaxElementOfArrayAndSortIt.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkMethods\09.FindMaxElementOfArrayAndSortIt\obj\Debug\09.FindMaxElementOfArrayAndSortIt.pdb

@@ -1,8 +1,0 @@
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\bin\Debug\04.IntWith254InHexFormat.exe.config
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\bin\Debug\04.IntWith254InHexFormat.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\bin\Debug\04.IntWith254InHexFormat.pdb
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\obj\Debug\04.IntWith254InHexFormat.exe
-D:\Velmond\School\Telerik\0. Homework\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\obj\Debug\04.IntWith254InHexFormat.pdb
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\bin\Debug\04.IntWith254InHexFormat.exe.config
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\obj\Debug\04.IntWith254InHexFormat.exe
-C:\Users\Mitko\Desktop\HomeworkPrimitiveDataTypesAndVariables\04.IntWith254InHexFormat\obj\Debug\04.IntWith254InHexFormat.pdb

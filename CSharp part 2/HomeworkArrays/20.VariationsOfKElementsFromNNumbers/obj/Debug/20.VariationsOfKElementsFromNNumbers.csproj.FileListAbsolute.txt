@@ -1,5 +1,0 @@
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\20.VariationsOfKElementsFromNNumbers\bin\Debug\20.VariationsOfKElementsFromNNumbers.exe.config
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\20.VariationsOfKElementsFromNNumbers\bin\Debug\20.VariationsOfKElementsFromNNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\20.VariationsOfKElementsFromNNumbers\bin\Debug\20.VariationsOfKElementsFromNNumbers.pdb
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\20.VariationsOfKElementsFromNNumbers\obj\Debug\20.VariationsOfKElementsFromNNumbers.exe
-D:\Velmond\School\Telerik\1.2. C# - Part II\HOMEWORK\HomeworkArrays\20.VariationsOfKElementsFromNNumbers\obj\Debug\20.VariationsOfKElementsFromNNumbers.pdb
